@@ -28,7 +28,7 @@ to act as starters for lessons.
 [VS Code](https://code.visualstudio.com/) [![](resources/vscode.png)](https://code.visualstudio.com/) •
 [Atom](https://atom.io/) [![](resources/atom.png)](https://atom.io/) •
 [Sublime](https://www.sublimetext.com/) [![](resources/sublime.png)](https://www.sublimetext.com/) •
-[PyCharm](https://www.jetbrains.com/pycharm/) ![![](resources/pycharm.png)](https://www.jetbrains.com/pycharm/) •
+[PyCharm](https://www.jetbrains.com/pycharm/) [![](resources/pycharm.png)](https://www.jetbrains.com/pycharm/)
 
 ## Python Documentation
 ![](https://imgs.xkcd.com/comics/wisdom_of_the_ancients.png)
