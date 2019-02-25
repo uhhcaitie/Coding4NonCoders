@@ -5,7 +5,7 @@ Coding4NonCoders
 
 This project is a collection of labs, programs, tutorials, and unfinished problems to help facilitate
 the grasping of core programming concepts. It is meant to be cloned, modified, and extended by a student
-in order to align with their own progress. Sample projects aand purposely broken code are included in order
+in order to align with their own progress. Sample projects and purposely broken code are included in order
 to act as starters for lessons.
 
 ## Do's
