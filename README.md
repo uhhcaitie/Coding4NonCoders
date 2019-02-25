@@ -35,3 +35,7 @@ to act as starters for lessons.
 * [The Official Docs](https://docs.python.org/3/)
 * [Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/)
 * [Learn Python](https://www.learnpython.org)
+
+## Git
+* [Git Basics](https://git-scm.com/book/en/v1/Getting-Started-Git-Basics)
+* [Github Guide](https://guides.github.com/)
