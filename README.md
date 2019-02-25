@@ -1,7 +1,7 @@
 Coding4NonCoders
 ================
 
-## \~ Python ![](resources/python.png)Edition \~
+## \~ Python ![](resources/python.png) Edition \~
 
 This project is a collection of labs, programs, tutorials, and unfinished problems to help facilitate
 the grasping of core programming concepts. It is meant to be cloned, modified, and extended by a student
