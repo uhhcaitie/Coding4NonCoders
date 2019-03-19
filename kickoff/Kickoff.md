@@ -24,7 +24,16 @@ use Git, especially the basic concepts of Cloning, Adding, Committing, and Pushi
 
 If you are reading this file you have probably already cloned this repository.
 
+## Python
+
+Install [Python](https://www.python.org/downloads/release/python-372/)
+
+* If you are on Windows, select the 64 bit installer
+* If you are Max OS X, select the Mac installer
+
 ## Editor
 
 Make sure you have your favorite text editor or IDE open and ready. See the file 
-`README.md` at the root of this repository for some popular ones
+`README.md` at the root of this repository for some popular ones. If you are not using VS Code, 
+make sure you have a terminal like CMD or Mac Terminal available. If you are
+using VS Code, toggle the terminal using Ctrl + `
