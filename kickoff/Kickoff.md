@@ -53,7 +53,60 @@ $ python printing.py
 3. Try printing 3 things at once
 
 # Exercise 2
-TODO
+Let's talk variables. Most of the time, what you need to print out to the user
+is not constant. It changes over the course of the programs execution. We can use
+variables, defined by the `=` (equals) symbol, to store data in order to reference it later.
+The `=` symbol can also reassign variables to new values.
+
+Example:
+
+```python
+first = 'John'
+```
+
+`first` is the name of the variable.
+
+`=` is the assignment operator.
+
+`'john'` is now the value of the variable.
+
+```shell
+$ python variables.py
+```
+
+1. Answer the question below using the following code block
+
+```python
+romance = 'Casablanca'
+action = 'The Terminator'
+favorite = 'My favorite movie is '
+
+bob = favorite + romance
+alice = favorite + action
+
+foo = bob + alice
+
+print(foo)
+```
+Without checking first. what will foo print out?
+
+2. Calculate the amount of seconds in a year using Python. Print it out.
+
+3. What happens when you try to use a number as a variable name?
+
+```python
+1 = 'House'
+```
+
+4. What will the following code print out?
+
+```python
+A = 'zebra'
+B = 'Bear'
+
+A = B
+print(A)
+```
 
 # Exercise 3
 TODO
