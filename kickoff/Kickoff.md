@@ -52,3 +52,8 @@ $ python printing.py
 2. Fix the spelling of "Montevideo" on line 7. Run printing.py again. What happens?
 3. Try printing 3 things at once
 
+# Exercise 2
+TODO
+
+# Exercise 3
+TODO
