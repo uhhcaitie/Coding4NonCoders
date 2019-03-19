@@ -70,6 +70,10 @@ first = 'John'
 
 `'john'` is now the value of the variable.
 
+
+Open `variables.py` to see how variables are assigned to numbers
+and strings. Run `variables.py` to see what prints out.
+
 ```shell
 $ python variables.py
 ```
