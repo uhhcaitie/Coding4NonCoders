@@ -9,7 +9,7 @@ this file as opposed to any other text file. They are both just text.
 Markdown files generally follow specific conventions, with symbols like 
 "#" denoting headers, or an asterisk denoting a bullet point. 
 Some editors and applications can render Markdown files to produce an 
-enriched document. In VSCode this is done using Ctrl + K V*
+enriched document. In VSCode this is done using Ctrl + K V. If you need help viewing this file, ask!*
 
 # Setting Up
 ## Git
@@ -109,4 +109,45 @@ print(A)
 ```
 
 # Exercise 3
-TODO
+
+Conditionals are special constructs that allow the programmer to make decisions.
+In Python, the following words are *special* and cannot be used as variable names.
+They are used for conditional logic.
+
+* if
+* elif
+* else
+
+This is not an exhaustive list of all of the keywords, but three very commons ones.
+
+Another useful operator is the `==` (equals-equals) symbol. It is used for
+comparisons. It will evaluate to `True` or `False`.
+
+```python
+10 == 10 # True
+5 == 'Car' # False
+'bob' == 'bob' # True
+3*3 == 9 # True
+```
+
+1. Without running it first, what will the `conditionals.py` program print out?
+
+2. What happens if you change line 8 so that `my_color` is assigned to `red`
+
+3. What does `else` do?
+
+4. What will the following print out?
+
+note: `>` means `Greater than` and `<` is `Less than`
+
+```python
+height = 6
+if height > 10: 
+    print('foo')
+elif height < 8:
+    print('bar')
+else:
+    print('baz')
+```
+
+5. What does `elif` do?
