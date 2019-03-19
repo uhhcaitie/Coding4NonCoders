@@ -36,4 +36,19 @@ Install [Python](https://www.python.org/downloads/release/python-372/)
 Make sure you have your favorite text editor or IDE open and ready. See the file 
 `README.md` at the root of this repository for some popular ones. If you are not using VS Code, 
 make sure you have a terminal like CMD or Mac Terminal available. If you are
-using VS Code, toggle the terminal using Ctrl + `
+using VS Code, toggle the terminal using Ctrl + `.
+Make sure you have line numbers enabled.
+
+# Exercise 1
+
+Run printing.py by calling the python interpreter on your `printing.py` file.
+
+```shell
+$ cd kickoff
+$ python printing.py
+```
+
+1. Add another print statement after line 5 to print your name.
+2. Fix the spelling of "Montevideo" on line 7. Run printing.py again. What happens?
+3. Try printing 3 things at once
+
