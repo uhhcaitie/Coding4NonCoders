@@ -151,3 +151,29 @@ else:
 ```
 
 5. What does `elif` do?
+
+# Bonus
+
+What does the following segment of code print out?
+
+```python
+nails = 20
+wood_planks = 10
+hammer = True
+
+day = 'Monday'
+
+if nails > 10:
+
+    weekday = day != 'Saturday' and day != 'Sunday'
+
+    if not weekday:
+        print('The largest building is in Dubai.')
+    elif day == 'Wednesday':
+        print('James Madison was born on March 16.')
+    elif wood_planks >= 10:
+        print('Snails can sleep for three years.')
+
+else:
+    print('Git and Github are not the same thing.')
+```
