@@ -1,4 +1,4 @@
-# This is a comment. All lines prefaced with # are ignored by the
+# This is a comment. All lines prefaced with # are ignored by
 # the Python interpreter.
 
 print('Hello World!')
