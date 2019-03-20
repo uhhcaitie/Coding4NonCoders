@@ -138,7 +138,7 @@ comparisons. It will evaluate to `True` or `False`.
 
 2. What happens if you change line 8 so that `my_color` is assigned to `red`
 
-3. What does `else` do?
+3. Whats the difference between `else` and `elif`?
 
 4. What will the following print out?
 
