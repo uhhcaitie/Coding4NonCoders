@@ -136,7 +136,7 @@ A conditional is composed of two things:
 1. If, elif, or else
 2. A boolean expression
 
-Here are some examples of conditionals
+If the boolean expression evaluates to True, then the inner code is executed. Here are some examples of conditionals
 
 ```python
 if True:
