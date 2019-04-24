@@ -1,6 +1,8 @@
 Lab 1
 =======
 
+# *Feel free to enrich this document with your answers, notes, and code. It's yours. You cloned it.*
+
 ### *How to view this file*
 
 *This is a Markdown file denoted by its ".md" extension. It is used by programmers
@@ -9,9 +11,12 @@ this file as opposed to any other text file. They are both just text.
 Markdown files generally follow specific conventions, with symbols like 
 "#" denoting headers, or an asterisk denoting a bullet point. 
 Some editors and applications can render Markdown files to produce an 
-enriched document. In VSCode this is done using Ctrl + K V. If you need help viewing this file, ask!*
+enriched document. In VSCode this is done using Ctrl + K V. If you need help interacting with this file, ask!*
 
 # Setting Up
+
+If you have already cloned the repo, installed Python, and opened the project with your editor, then skip to Exercise 1
+
 ## Git
 Git is a popular Version Control System used. Version Control Systems are 
 programs that help us maintain a history and track changes to a project over time.
@@ -49,7 +54,9 @@ $ python printing.py
 ```
 
 1. Add another print statement after line 5 to print your name.
+
 2. Fix the spelling of "Montevideo" on line 7. Run printing.py again. What happens?
+
 3. Try printing 3 things at once
 
 # Exercise 2
@@ -123,6 +130,27 @@ They are used for conditional logic.
 * else
 
 This is not an exhaustive list of all of the keywords, but three very commons ones.
+
+A conditional is composed of two things:
+
+1. If, elif, or else
+2. A boolean expression
+
+Here are some examples of conditionals
+
+```python
+if True:
+    print('foo')
+
+if False:
+    print('bar')
+
+if True and False:
+    print('baz')  # Will not run! "and" means both sides must be True
+
+if (1 + 1) == 2:
+    print('zar')
+```
 
 Another useful operator is the `==` (equals-equals) symbol. It is used for
 comparisons. It will evaluate to `True` or `False`.
