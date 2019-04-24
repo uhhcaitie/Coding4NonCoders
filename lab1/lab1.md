@@ -1,4 +1,4 @@
-Kickoff
+Lab 1
 =======
 
 ### *How to view this file*

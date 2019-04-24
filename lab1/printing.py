@@ -4,7 +4,7 @@
 print('Hello World!')
 print('Hello again.')
 
-capital = 'The capital of Uruguay is Montvideo.'
+capital = 'The capital of Uruguay is Montevideo.'
 
 print(capital)
 
