@@ -39,7 +39,7 @@ Functions are defined to be called later. We can call (execute, run, etc) our fu
 my_print()
 ```
 
-That is, the function name `my_print` following by arguments "`()`". Again, this function has no arguments (we'll get there).
+That is, the function name `my_print` following by arguments "`()`". Again, this function has no arguments.
 
 ## Function arguments
 
