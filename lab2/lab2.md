@@ -51,4 +51,25 @@ def print_name(name):
 ```
 
 Here, `name` is a single argument to the function `print_name`. The function 
-simply prints our `name` nicely.
+simply prints our `name` nicely. Function arguments can be named anything you want.
+Although, it's a good idea to name them with regards to their purpose.
+
+If you want more than one argument, seperate them with commas:
+
+```python
+def print_lots(foo, bar):
+    print(foo, bar)
+```
+
+# Exercise 1
+
+1. Run `my_print.py` and observe 'Hello world' in your terminal
+
+2. Add an argument to the `my_print` function to print our instead of 'hello world'
+
+3. In `my_print.py` (or a new file), define a function that will allow you to print out the Country and Capital in the pattern "The Capital of `X` is `y`". For example if I supply your function with "Uruguay" and "Montevideo", then "The Capital of Uruguay is Montevideo" Should be printed.
+
+4. Call this function with the arguments "Spain", and "Madrid"
+
+5. Create a function called `area` that takes two arguments, `width` and `height`, and prints out the result of width x height. For example, if I passed in 5 and 4 to the `area` function, I should see 20 printed out.
+
