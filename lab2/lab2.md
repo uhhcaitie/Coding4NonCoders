@@ -124,3 +124,21 @@ while i < 10: # We keep going until this is False
     print(i)
     i = i + 1
 ```
+
+We can call the functions we write in loops too. For example:
+
+```python
+def plus_five(x):
+    return x + 5
+
+for i in range(10):
+    print(plus_five(i))
+```
+
+# Exercise 3
+
+1. Copy and paste `plus_five` and the `for` loop into loops.py. Run it and observe what happens.
+
+2. Modify `plus_five` to multiply by 5 instead of adding
+
+3. Write a `for` loop that adds all of the numbers between 1 and 100. After the loop, print the sum out.
