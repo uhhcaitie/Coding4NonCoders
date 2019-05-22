@@ -141,4 +141,6 @@ for i in range(10):
 
 2. Modify `plus_five` to multiply by 5 instead of adding
 
-3. Write a `for` loop that adds all of the numbers between 1 and 100. After the loop, print the sum out.
+3. Write a `for` loop that adds all of the numbers between 1 to 100. After the loop, print the sum out.
+
+4. Define a function `square(x)` that calculates x^2. Then, write a `for` loop to print out the square of each number from 1 to 100
