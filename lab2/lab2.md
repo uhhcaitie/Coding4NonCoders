@@ -69,7 +69,35 @@ def print_lots(foo, bar):
 
 3. In `my_print.py` (or a new file), define a function that will allow you to print out the Country and Capital in the pattern "The Capital of `X` is `y`". For example if I supply your function with "Uruguay" and "Montevideo", then "The Capital of Uruguay is Montevideo" Should be printed.
 
-4. Call this function with the arguments "Spain", and "Madrid"
+4. Call this function with the arguments "Spain", and "Madrid", then with "United States" and "Washington DC"
 
 5. Create a function called `area` that takes two arguments, `width` and `height`, and prints out the result of width x height. For example, if I passed in 5 and 4 to the `area` function, I should see 20 printed out.
 
+# Return
+
+Functions do not have to be restricted to just printing things out. They can return values to the caller too using the special keyword `return`. We can then store the output into variables for later use. For example:
+
+```python
+def format_name(first_name, last_name):
+    return last_name + ', ' + first_name
+```
+
+This function formats a first name and last name. It will print out "Smith, John" when passed 
+in "John" and "Smith". We can use this to format names easier.
+
+```python
+john = format_name("John", "Smith")
+jane = format_name("Jane", "Doe")
+joe = format_name("Joe", "Schmoe")
+```
+
+This way we do not need to rewrite the formatting operation everytime.
+
+# Exercise 2
+
+1. Modify the `format_name` function to return in the format of "[first] -- [last]". Run
+`format_name` again. Observe how we only made the code modification in one place, but reaped the rewards everywhere it is called. This is essential!
+
+# Loops
+
+## TODO
