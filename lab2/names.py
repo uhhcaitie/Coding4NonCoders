@@ -8,4 +8,4 @@ joe = format_name("Joe", "Schmoe")
 
 print(john)
 print(jane)
-print()
+print(joe)

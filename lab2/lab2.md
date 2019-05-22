@@ -98,6 +98,29 @@ This way we do not need to rewrite the formatting operation everytime.
 1. Modify the `format_name` function to return in the format of "[first] -- [last]". Run
 `format_name` again. Observe how we only made the code modification in one place, but reaped the rewards everywhere it is called. This is essential!
 
-# Loops
+# Loops, the basics
 
-## TODO
+You have made it this far. Let's keep going.
+
+We can repeat lines of code multiple times over by using a loop. In Python, there are
+two kinds of loops: a `for` loop and a `while` loop. Let's start with the more popular `for` variety.
+
+But first, the `range` function. `range` is a very special, core Python function, that we all have available to us. It is built in to Python. We do not define it. `range` is commonly used alongside `for` to loop a defined number of times.
+
+For example
+
+```python
+for i in range(10):
+    print(i)
+```
+
+This prints the numbers 0 to 9.
+
+The `while` loop is a little different, and less common. Here is the above written using `while`.
+
+```python
+i = 0
+while i < 10: # We keep going until this is False
+    print(i)
+    i = i + 1
+```
