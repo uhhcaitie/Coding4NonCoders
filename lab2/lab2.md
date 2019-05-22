@@ -65,7 +65,7 @@ def print_lots(foo, bar):
 
 1. Run `my_print.py` and observe 'Hello world' in your terminal
 
-2. Add an argument to the `my_print` function to print our instead of 'hello world'
+2. Add an argument to the `my_print` function to print that out instead of "Hello world".
 
 3. In `my_print.py` (or a new file), define a function that will allow you to print out the Country and Capital in the pattern "The Capital of `X` is `y`". For example if I supply your function with "Uruguay" and "Montevideo", then "The Capital of Uruguay is Montevideo" Should be printed.
 
